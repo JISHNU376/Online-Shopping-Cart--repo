@@ -1,18 +1,24 @@
-## Getting Started
+# Online Shopping Cart
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Description
+The **Online Shopping Cart** is a Java-based console application that allows users to browse products, add them to a cart, and complete purchases. It includes features like **product storage, inventory management, and payment simulation**. The system is built with a **Product** class for item details and a **ShoppingCart** class to manage cart operations.
 
-## Folder Structure
+## Features
+- Browse available products.
+- Add and remove items from the shopping cart.
+- View cart contents and total price.
+- Manage product inventory.
+- Simulate a checkout process with payment handling.
 
-The workspace contains two folders by default, where:
+## Technologies Used
+- **Java** (OOP concepts, Collections)
+- **Scanner** for user input
+- **File Handling** for product storage (optional)
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## How to Run
+### 1. Compile the program:
+```sh
+javac OnlineShoppingCart.java
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Let me know if you need any modifications! 🚀
